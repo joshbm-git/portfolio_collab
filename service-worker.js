@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/portfolio_collab/precache-manifest.cfe95657369ea5c702bdc8d835c97f7b.js"
+  "precache-manifest.a71f221f76758e44d799548774f715c5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "portfolio_collab_dev"});
